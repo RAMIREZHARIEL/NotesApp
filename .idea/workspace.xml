@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56782e12-d163-49f3-b0f1-c1a793eb14df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fI6P6tSp1oaqq5JuYrP2ittNq4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.2.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.0.26" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramir\Desktop\WebStorm\PrimerProyecto\src\public" />
+      <recent name="C:\Users\Ramir\Desktop\WebStorm\PrimerProyecto\src\views\layouts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56782e12-d163-49f3-b0f1-c1a793eb14df" name="Default Changelist" comment="" />
+      <created>1595893232320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595893232320</updated>
+      <workItem from="1595893233382" duration="650000" />
+      <workItem from="1595971994545" duration="8002000" />
+      <workItem from="1596055073165" duration="8004000" />
+      <workItem from="1596492883079" duration="6935000" />
+      <workItem from="1596575803350" duration="11703000" />
+      <workItem from="1596661704745" duration="10649000" />
+      <workItem from="1596738714124" duration="9508000" />
+      <workItem from="1597095615344" duration="11333000" />
+      <workItem from="1597273283195" duration="5925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="188" key="#Notifications" timestamp="1596586514774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="428" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1596586514774" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596577512978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596577512978" />
+    <state x="180" y="1" key="SettingsEditor" timestamp="1595972642104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="180" y="1" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595972642104" />
+    <state x="289" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597113941408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="289" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1597113941408" />
+    <state x="0" y="0" width="585" height="728" key="find.popup" timestamp="1596664328183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1596664328183" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596752629592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596752629592" />
+  </component>
+</project>
